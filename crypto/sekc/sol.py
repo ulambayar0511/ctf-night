@@ -1,0 +1,2 @@
+flag = "6363734354467b755f6b6e6f775f6b65785f6865785f73656b637d"
+print(bytes.fromhex(flag))
